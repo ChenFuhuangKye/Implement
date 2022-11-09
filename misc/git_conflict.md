@@ -1,5 +1,5 @@
 # github協作衝突處理
-> 作者:@Huangkye 
+> 作者:Huangkye 
 
 [toc]
 
